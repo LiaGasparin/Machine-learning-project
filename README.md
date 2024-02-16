@@ -2,10 +2,11 @@
 
 __Launch Instructions__ :
 
-exercice1_regression_binaire.R:
+EXO1.R:
 
 - Download the required databases: "simu.txt" and "xsimutest.txt".
 - Run the R script "EXO1.ipynb" to perform binary regression. Ensure the script has access to the downloaded databases.
+- The file EXO1_PREDICTIONS.R corresponds to the file containing the predictions related to exercise 1.
 
 EXO_2_3.R:
 
