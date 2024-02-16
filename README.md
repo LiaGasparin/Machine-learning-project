@@ -2,9 +2,10 @@
 
 __Datasets__ :
 - [chiens](https://www.kaggle.com/datasets/liagasparin/data-ml-project?select=chiens.unknown)
--[simu](https://www.kaggle.com/datasets/liagasparin/data-ml-project?select=simu.txt)
+- [simu](https://www.kaggle.com/datasets/liagasparin/data-ml-project?select=simu.txt)
 - [voitures](https://www.kaggle.com/datasets/liagasparin/data-ml-project?select=voitures.unknown)
 - [xsimutest](https://www.kaggle.com/datasets/liagasparin/data-ml-project?select=xsimutest.txt)
+  
 __Launch Instructions__ :
 
 EXO1.R:
